@@ -35,6 +35,9 @@ data/*.db-wal
 # Binary
 slack-crawler
 
+# Session context (git管理対象外)
+.session-context.md
+
 # Editor/IDE
 # .idea/
 # .vscode/
